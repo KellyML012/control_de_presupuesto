@@ -20,10 +20,13 @@ Control de Presupuesto es una herramienta sencilla que te permite llevar un regi
 * Para eliminar un gasto, desliza la tarjeta del gasto hacia la izquierda.
 * La aplicación actualizará automáticamente el gráfico circular y mostrará el porcentaje de presupuesto utilizado.
 
-# Dependencias
+## Dependencias
 
 El proyecto hace uso de las siguientes librerías y versiones:
 
 * react-circular-progressbar v2.1.0: Esta librería se utiliza para mostrar el gráfico circular que representa el porcentaje de presupuesto utilizado.
 
 * react-swipeable-list v1.8.0: Esta librería proporciona el efecto deslizado de las tarjetas de gastos para eliminarlos de manera intuitiva.
+
+## Demostración
+Link a la página: https://control-de-presupuesto-kelly.netlify.app
